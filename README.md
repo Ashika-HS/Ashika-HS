@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Ashika H S
+
+I am Automation Engineer with 3 years of Experience
+
+
 <!--
 **Ashika-HS/Ashika-HS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
